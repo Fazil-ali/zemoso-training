@@ -1,2 +1,2 @@
-hello there,
+hi there,
 it is test file for practising merge conflict.
